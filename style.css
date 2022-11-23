@@ -1,0 +1,55 @@
+#div1{
+	border-style: dashed;
+	border-color: #483C32;
+	margin: 15%;
+	padding: 12px;
+}
+#product{
+	font-family: 'Roboto Slab', serif;
+	font-size: 14px;
+	text-align: center;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+#price{
+	margin-top: 25px;
+	margin-bottom: 25px;
+	font-family: 'Caveat', cursive;
+	font-size: 100pt;
+	text-align: center;
+	color: #9A2A2A;
+}
+body{
+	background-color: #C2B280;
+}
+img{
+	height: 50%;
+	width: 50%;
+	margin-left: 200px;
+	margin-right: 100px;
+
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+}
+h4{
+	font-family: 'Caveat', cursive;
+	font-size: 54pt;
+	text-align: center;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	color: #483C32;
+}
+button{
+	border: none;
+	border-radius: 6px;
+	outline: 0;
+	display: inline-block;
+	padding: 12px;
+	color: #C2B280;
+	background-color: #913831;
+	text-align: center;
+	cursor: pointer;
+	width: 100%;
+	font-size: 18px;
+}
